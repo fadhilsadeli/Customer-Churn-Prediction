@@ -1,0 +1,3 @@
+koyeb : churn-fadhilsadeli.koyeb.app/
+
+hugging face : https://huggingface.co/spaces/fadhilsadeli/Churn_Prediction
